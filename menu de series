@@ -1,7 +1,7 @@
 <item>
 <title>[B]O Conto de Aia[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=   $nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=   $nome= EPISODIO 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7ebaa286819812b14774623cc7cffd1dc845233$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:118d7d936918d67e913217ebca5bdfa2cad745c9$nome= EPISODIO 02</link>
 <link>plugin://plugin.video.elementum/play?uri= $nome= EPISODIO 03</link>
 <link>plugin://plugin.video.elementum/play?uri=  $nome= EPISODIO 04</link>
 <link>plugin://plugin.video.elementum/play?uri= $nome= EPISODIO 05</link>
