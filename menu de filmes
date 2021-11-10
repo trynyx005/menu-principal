@@ -1,6 +1,5 @@
 <item>
 <title>[B]Mau-Olhado[/B]</title>
-<link>https://store2.gofile.io/download/f5c3ae7d-621e-48b9-b8ca-214eb69100b8/Mau-Olhado%202020.mp4$nome= Opção 1 (720p)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:002bb18aa4594f405077b0988e7d3eb3e2516a60&dn=COMANDO.TO%20
 
 -%20Mau-Olhado%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp
@@ -23,7 +22,7 @@
 
 %2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f
 
-%2f9.rarbg.to%3a2730%2fannounce$nome= Opção 2 (Torrent)</link>
+%2f9.rarbg.to%3a2730%2fannounce$nome= Opção 1 (Torrent)</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/09/17/08/10/3472744.jpg</thumbnail>
 <fanart>https://i1.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/10/17180723/EVIL.jpg</fanart>
 <info>Mau-Olhado conta a história de Pallavi (Sunita Mani), uma jovem indiana que é frequentemente pressionada pela mãe para casar. No 
@@ -34,3 +33,14 @@ do caminho tinha a mãe de Pallavi.</info>
 <genre>Suspense,Terror</genre>
 <year>2020</year>
 </item>
+
+<item>
+<title>[B]Eternos[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AEC576D51F58F10DB08C488FC4C50DA4B5438A2&dn=Eternals.2021.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce$nome= Opção 1 (Torrent)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w342/oL2IqECjqsHumNKJTTLUxydlPZi.jpg</thumbnail>
+<fanart>http://universoheroico.com.br/wp-content/uploads/2021/10/Imagem-do-filme-Eternos.jpeg</fanart>
+<info>Após os eventos de Vingadores: Ultimato (2019), os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.</info>
+<genre>Ação,Aventura,Ficção científica</genre>
+<year>2021</year>
+</item>
+
