@@ -1,4 +1,180 @@
 <item>
+<title>[B]A Estrada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:471ac1dac613c89cbb300a279db11dea970d63fa$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de5b69499ebc706b7c9b7d0bc5fbf8a7581450eb$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6pm9nlQoGx8egjJx85NTgiOSLYG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/6pm9nlQoGx8egjJx85NTgiOSLYG.jpg</fanart>
+<info>O mundo foi destruído há mais de 10 anos, mas ninguém sabe o que exatamente aconteceu. Como resultado, não há energia, vegetação ou comida. Milhões de pessoas morreram, devido aos incêndios, inundações ou queimadas que se seguiram ao cataclisma. Neste contexto vivem um pai (Viggo Mortensen) e seu filho (Kodi Smit-McPhee), que sobrevivem de quaisquer alimento e vestuário que conseguem roubar. Apesar dos contratempos, eles seguem viagem pela estrada, sempre rumo ao oeste dos Estados Unidos.</info>
+<genre>Aventura, Drama</genre>
+<year>2009</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
 <title>[B]Mau-Olhado[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:002bb18aa4594f405077b0988e7d3eb3e2516a60&dn=COMANDO.TO%20
 
