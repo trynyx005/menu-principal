@@ -10,25 +10,25 @@
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B]Efeito Borboleta 3 Revelação[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2d75b69cd2183b964b7c9ac1d03fcba02ffe199$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adf217ce478a79ee0753b73cae1561049a94cbd9$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6svx2au08QMyfXCEgNUht6maRIb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/6svx2au08QMyfXCEgNUht6maRIb.jpg</fanart>
+<info>Quando Sam Reide volta no tempo para salvar sua irmã Jenna de uma casa pegando fogo, ele inadvertidamente cria uma história alternativa em que seus pais morrem prematuramente. Na sequência do acidente, o viajante do tempo jura não interferir com a história novamente. Porém quando um homem inocente acaba no corredor da morte por ter assassinado sua namorada, Reide ignora os avisos e se prepara para uma último pulo no tempo para testemunhar o crime.</info>
+<genre>Ficção Científica, Suspense, Drama, Crime</genre>
+<year>2009</year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B]A Hora do Espanto 2[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a981df1e04ec3c5011a7067d01dcc794212e650d$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feab7710eddf8da6b6225b55c116f562e7f73aac$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wNYnZDZoqsJCUvxpd0H9fx5RESt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/wNYnZDZoqsJCUvxpd0H9fx5RESt.jpg</fanart>
+<info>Durante o dia, Gerri Dandridge (Jaime Murray) é uma professora universitária; à noite, ela se transforma em uma vampira com inesgotável sede por sangue humano. Quando um grupo de estudantes viaja para a Romênia, eles acabam caindo na teia de sedução de Gerri, e passam a correr grande risco. O grupo então pedem ajuda a Peter Vincent (Sean Power), apresentador de um programa de TV local chamando A Hora do Espanto e caçador de vampiros.</info>
+<genre>Terror, Comédia</genre>
+<year>2013</year>
 </item>
 
 <item>
