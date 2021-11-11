@@ -153,25 +153,102 @@
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Aves de Rapina Arlequina e sua Emancipação Fantabulosa[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:kzzsvjez3t5kgj3xrhmipwq5tqawzsag$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fd033f1055f521c469d45515027e19d4baff0e$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</fanart>
+<info>Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.</info>
+<genre>Ação, Crime</genre>
+<year>2020</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Velozes & Furiosos Hobbs & Shaw[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77511e5c6055704eb53add53ddc297e25103c800$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7ed872c0f2a9d7a890914f2f0116f7c1a56092c$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg</fanart>
+<info>Desde que se conheceram, em “Velozes & Furiosos 7”, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.</info>
+<genre>Ação, Aventura, Comédia</genre>
+<year>2019</year>
+</item>
+
+<item>
+<title>[B]Homem-Aranha[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a2de2223eda3e0925276cc7c9ac16355eca2e6$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a452c5d40e282d216962b5423b600d1a103f8ba$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1Q4Cf7hFbYMi3B4gmTlGOep43Qn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/1Q4Cf7hFbYMi3B4gmTlGOep43Qn.jpg</fanart>
+<info>Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.</info>
+<genre>Fantasia, Ação</genre>
+<year>2002</year>
+</item>
+
+<item>
+<title>[B]Alerta Vermelho[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f4b68ab771c41e49aebf8d8d1217d5b4eb02f0$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:189c8d262d74177515646eb4826fc234d538e547$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yCusqunCMU84z32OK0kyZMnTH45.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/yCusqunCMU84z32OK0kyZMnTH45.jpg</fanart>
+<info>Estagnado desde 1903, a 9000 pés de altitude, um vulcão entra em erupção na Montanha Baekdu, localizada na fronteira entre a China e a Coreia do Norte. Armado com a ameaça de erupções iminentes, uma equipe de profissionais treinados exclusivamente da Coreia do Sul e do Norte se unem. Juntos, eles devem unir forças e tentar evitar um desastre catastrófico que ameaça a Península Coreana.</info>
+<genre>Ação, Aventura, Suspense</genre>
+<year>2019</year>
+</item>
+
+<item>
+<title>[B]Homem-Aranha Longe de Casa[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2406f2aeae458f89c633668aed2dd28b9194618d$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2785c4334ef835b25ec1202299f768ef22f53102$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</fanart>
+<info>Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</info>
+<genre>Ação, Aventura, Ficção Científica</genre>
+<year>2019</year>
+</item>
+
+<item>
+<title>[B]After Depois da Verdade[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:889d3ebb8b1bc39dc8d886d48486be70a96c56da$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d12ea993f97237e224bbf8c7da2a4d995076268d$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg</fanart>
+<info>Após descobrir sobre a aposta, Tessa (Josephine Langford) tenta esquecer Hardin (Hero Fiennes Tiffin), o jovem caótico e revoltado que partiu seu coração. Porém, ela está prestes a descobrir que alguns amores não podem ser superados. Hardin sabe que cometeu o pior erro de sua vida ao ter magoado a jovem tão profundamente, mas vai lutar com toda a sua força para reconquistar o grande amor da sua vida.</info>
+<genre>Romance, Drama</genre>
+<year>2020</year>
+</item>
+
+<item>
+<title>[B]Ava[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c1e9a29cd7462bed36f69629afd24c3b0a69b09$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6de1a28916146057b06616fa8b57f7f2123cda31$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6llUjNLsLiAcpIOer9LR631HPoU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/6llUjNLsLiAcpIOer9LR631HPoU.jpg</fanart>
+<info>Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.</info>
+<genre>Ação, Crime, Drama, Suspense</genre>
+<year>2020</year>
+</item>
+
+<item>
+<title>[B]Soul[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7666ae5568ac6eb440842d673d6b333243dce47e$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8041803f89c0b44a7d8b188d30cefadec7df8498$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</fanart>
+<info>Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.</info>
+<genre>Família, Animação, Comédia, Drama, Musical</genre>
+<year>2020</year>
+</item>
+
+<item>
+<title>[B]Bob Esponja O Incrível Resgate[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:qqhuim2igfkb4l5ht2w6nx5moqzyyzdd$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ee850a5f55dcddecd4c6cd351a4393dae0a928d$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/d88x4Jnyhr4xErOYeJCspcxI34h.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/d88x4Jnyhr4xErOYeJCspcxI34h.jpg</fanart>
+<info>Onde está Gary? Segundo Bob Esponja, Gary foi “caracolstrado” pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</info>
+<genre>Família, Animação, Fantasia, Aventura, Comédia</genre>
+<year>2020</year>
 </item>
 
 <item>
