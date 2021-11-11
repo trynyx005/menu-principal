@@ -32,146 +32,146 @@
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B]George, O Rei da Floresta[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:291b56911f48dd496251e78bb78c095390ef41e5$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:384ec31e15d49752519f6c46fb3253c72ac2361c$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/g1I6B0b5b5D1113FFarENIwAWne.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/g1I6B0b5b5D1113FFarENIwAWne.jpg</fanart>
+<info>Grupo de gorilas adota criança abandonada na selva após acidente com seus pais. Apesar de ser totalmente atrapalhado, o garoto cresce e torna-se o rei dos animais, levando uma vida calma e monótona, até conhecer a linda Úrsula, a primeira mulher de carne e osso que vê em sua vida. Apaixona-se imediatamente, e resolve acompanhá-la até São Francisco, para aprender os costumes e a cultura do homem branco. Pronto! A confusão está armada.</info>
+<genre>Aventura, Comédia, Família, Romance</genre>
+<year>1997</year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B]Arquivo X Eu Quero Acreditar[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a18a36f6d1169f4a345ae4dabbfbea13ed59b3$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a18a36f6d1169f4a345ae4dabbfbea13ed59b3$nome= Legendado</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg</fanart>
+<info>Scully e Mulder estão de volta para resolver mais um mistério: o sequestro de uma agente do FBI. Os agentes, então, começam a investigar o caso e descobrem que esse não foi um sequestro comum. Ciência, religião e eventos sobrenaturais o cercam.</info>
+<genre>Drama, Suspense, Ficção Científica</genre>
+<year>2008</year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri= $nome= Legendado</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
-<year>2021</year>
+<title>[B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Legendado</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
 </item>
 
 <item>
