@@ -32,4 +32,12 @@
 <info>Séries de TV</info>
 </channel>
 
+<channel>
+<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
+<thumbnail>https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/08/legiao_npbuqGZPT0Hf.png.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20animes</externallink>
+<fanart>https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/08/legiao_npbuqGZPT0Hf.png.jpeg</fanart>
+<info>Grade de Animes</info>
+</channel>
+
 </channels>
