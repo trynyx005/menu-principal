@@ -69,8 +69,9 @@
 
 <item>
 <title>[B]Bloodshot[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c2eb15be18f70297ae5523773e917c98e92eebb$nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87025bcad562c2e3e3a5012459c975470ff5f44d$nome= Legendado</link>
+<link>https://www.googleapis.com/drive/v3/files/1Lq523ULo_99HFprydTc7Rvde9o6HyLjF?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c2eb15be18f70297ae5523773e917c98e92eebb$nome= Opção 2 (Torrent)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87025bcad562c2e3e3a5012459c975470ff5f44d$nome= Legendado (Torrent)</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</fanart>
 <info>Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família.</info>
