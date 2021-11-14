@@ -1,4 +1,15 @@
 <item>
+<title>[B]Venom[/B]</title>
+<link>$nome= Opção 1 Embreve</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76cad4bc4ec474fcd83a859164aeefb52f3ceafa$nome= Torrent</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apZJb9kdHXhPu6oDTeztDSd41zw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apZJb9kdHXhPu6oDTeztDSd41zw.jpg</fanart>
+<info>O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie</info>
+<genre>Ficção científica, Ação</genre>
+<year>2018</year>
+</item>
+
+<item>
 <title>[B]Contra o Relógio[/B]</title>
 <link>https://www.googleapis.com/drive/v3/files/1LzEI1od0nmWjK-3fZdaoSrVt1ZysRQTZ?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdrtcmvrdserrfry5ihbfbqngf24lhal$nome= Torrent</link>
