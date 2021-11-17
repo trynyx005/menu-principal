@@ -1,17 +1,4 @@
 <item>
-<title>[B]Teste[/B]</title>
-<link>https://www.terabox.com/play/video?path=%2FFree%20Guy%202021%201080p%20BluRay%20DUAL%205.1.mkv$nome= Opção 01</link>
-<iframe src="https://uptostream.com/iframe/4bqpgjfrt963"></iframe>
-<link>https://uptostream.com/4bqpgjfrt963$nome= Opção 1 Embreve</link>
-<link>http://$nome= Torrent</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apZJb9kdHXhPu6oDTeztDSd41zw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apZJb9kdHXhPu6oDTeztDSd41zw.jpg</fanart>
-<info>O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie</info>
-<genre>Ficção científica, Ação</genre>
-<year>2018</year>
-</item>
-
-<item>
 <title>[B]Venom[/B]</title>
 <link>$nome= Opção 1 Embreve</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76cad4bc4ec474fcd83a859164aeefb52f3ceafa$nome= Torrent</link>
@@ -79,8 +66,8 @@
 
 <item>
 <title>[B]Arquivo X Eu Quero Acreditar[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a18a36f6d1169f4a345ae4dabbfbea13ed59b3$nome= Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a18a36f6d1169f4a345ae4dabbfbea13ed59b3$nome= Legendado</link>
+<link>https://archive.org/download/arquivo-x-eu-quero-acreditar-720p-filmes-beta/Arquivo%20X%20-%20Eu%20Quero%20Acreditar%20720p%20-%20Filmes%20Beta.mp4$nome= Opção 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a18a36f6d1169f4a345ae4dabbfbea13ed59b3$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg</fanart>
 <info>Scully e Mulder estão de volta para resolver mais um mistério: o sequestro de uma agente do FBI. Os agentes, então, começam a investigar o caso e descobrem que esse não foi um sequestro comum. Ciência, religião e eventos sobrenaturais o cercam.</info>
