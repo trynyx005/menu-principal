@@ -1,6 +1,15 @@
 <item>
 <title>[B]Lupin[/B]</title>
 <link>$nome= 1ª Temporada (Online)</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</fanart>
+<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em “Arsène Lupin, o Ladrão de Casaca” para vingá-lo.</info>
+<genre>Crime, Drama, Suspense</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]Lupin[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7$nome= 1ª Temporada (Torrent)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab57445d9249ad40f71c1b1efcbdb01d9cb7aa9$nome= 2ª Temporada (Torrent)</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
