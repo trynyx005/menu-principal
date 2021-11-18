@@ -11,7 +11,7 @@
 
 <item>
 <title>[B]Lupin[/B]</title>
-<link>$nome= Opção 1</link>
+<link>$nome= 1ª Temporada (Online)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7$nome= 1ª Temporada (Torrent)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab57445d9249ad40f71c1b1efcbdb01d9cb7aa9$nome= 2ª Temporada (Torrent)</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
