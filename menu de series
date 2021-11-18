@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR white]Lupin[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/lupin</externallink>
+<fanart>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</fanart>
+<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em “Arsène Lupin, o Ladrão de Casaca” para vingá-lo.</info>
+<genre>Crime, Drama, Suspense</genre>
+<year>2021</year>
+</channel>
+
+<channel>
 <name>[B][COLOR white]O Conto de Aia[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2TAvOmaYgR18GQGnbCRRb4t8bDf9QmhVVg&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/o%20conto%20de%20aia</externallink>
