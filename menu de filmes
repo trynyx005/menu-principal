@@ -1,4 +1,15 @@
 <item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+<item>
 <title>[B]Efeito Colateral[/B]</title>
 <link>https://archive.org/download/films_202111/Efeito.Colateral.2002.720p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv$nome= Assistir Online (Opção 1)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2107b3ba73216f6aafbedcbab4bf818dcf0ed849$nome= Torrent</link>
@@ -21,36 +32,14 @@
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
-</item>
-
-<item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
-</item>
-
-<item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Homem-Aranha Longe de Casa[/B]</title>
+<link>https://archive.org/download/films_202111/Homem-Aranha.Longe.de.Casa.2019.1080p.BluRay.6CH.x264.DUAL-COMANDOTORRENTS.COM.mkv$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f1ea63184998ffb68ef59f469476b57ed6cc91b$nome= Torrent</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</fanart>
+<info>Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</info>
+<genre>Ação, Aventura, Ficção Científica</genre>
+<year>2019</year>
 </item>
 
 <item>
@@ -110,7 +99,8 @@
 
 <item>
 <title>[B]George, O Rei da Floresta[/B]</title>
-<link>https://store-na-1.gofile.io/download/7aeb4dc0-a83e-4e89-a898-1ecb60f59b12/George.o.Rei.da.Floresta.1997.1080p.Dual.BrRip.x264.1046.mkv$nome= Opção 1</link>
+<link>https://archive.org/download/films_202111/George.o.Rei.da.Floresta.1997.1080p.Dual.BrRip.x264.1046.mkv$nome= Assistir Online (Opção 1)</link>
+<link>https://store-na-1.gofile.io/download/7aeb4dc0-a83e-4e89-a898-1ecb60f59b12/George.o.Rei.da.Floresta.1997.1080p.Dual.BrRip.x264.1046.mkv$nome= Assistir Online (Opção 2)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:291b56911f48dd496251e78bb78c095390ef41e5$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/g1I6B0b5b5D1113FFarENIwAWne.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/g1I6B0b5b5D1113FFarENIwAWne.jpg</fanart>
