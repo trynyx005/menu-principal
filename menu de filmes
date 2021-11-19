@@ -1,23 +1,23 @@
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Efeito Colateral[/B]</title>
+<link>https://archive.org/download/films_202111/Efeito.Colateral.2002.720p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2107b3ba73216f6aafbedcbab4bf818dcf0ed849$nome= Torrent</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yOwkMzHXDIzZi7CqKzgMf9UxH7p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/yOwkMzHXDIzZi7CqKzgMf9UxH7p.jpg</fanart>
+<info>Gordon Brewer é um bombeiro que perde sua esposa e filho em um atentado terrorista organizado por Claudio Perrini. Como as investigações oficiais do governo americano parecem não chegar a lugar algum, Brewer decide então perseguir o próprio Claudio, se envolvendo em um complicado jogo que o leva até a Colômbia.</info>
+<genre>Ação, Suspense, Drama</genre>
+<year>2002</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Caçadora de Gigantes[/B]</title>
+<link>https://archive.org/download/films_202111/Eu.Mato.Gigantes.2019.1080p.BluRay.x264.DUAL-WwW.LAPUMiAFiLMES.COM.mkv$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85746b9fc5ae1f5da1570a20630720c39d2338e0$nome= Torrent</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg</fanart>
+<info>A jovem e problemática Barbara (Madison Wolfe) tenta escapar da difícil realidades que é sua vida, e vai para um mundo mágico onde acaba lutando com monstros gigantes. Mas, sera que ela é a única na cidade que consegue ver o mundo da fantasia que existe? Ou será que são apenas delírios?</info>
+<genre>Drama, Fantasia</genre>
+<year>2018</year>
 </item>
 
 <item>
