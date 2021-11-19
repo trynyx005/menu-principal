@@ -1,4 +1,59 @@
 <item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+<item>
 <title>[B]Venom[/B]</title>
 <link>$nome= Opção 1 Embreve</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76cad4bc4ec474fcd83a859164aeefb52f3ceafa$nome= Torrent</link>
