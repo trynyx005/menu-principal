@@ -1,4 +1,16 @@
 <item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
+
+
+<item>
 <title>[B]A Guerra do Amanhã[/B]</title>
 <link>https://archive.org/download/mvscollect/A_Guerra_do_Amanha.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mkv$nome= Assistir Online (Opção 1)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dbe10e1ca8fa7e8711d7e7e650d5885888083fe$nome= Torrent</link>
@@ -10,25 +22,25 @@
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Cruella[/B]</title>
+<link>https://archive.org/download/films_202111/Cruella.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mkv$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0657a6a19541a05cacecf638445b55663acd19d7$nome= Torrent</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg</fanart>
+<info>Na Londres dos anos 70 em meio à revolução do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si através de seus designs. Ela faz amizade com uma dupla de jovens ladrões e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a atenção da Baronesa Von Hellman, uma lenda fashion que é devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revelações que farão com que Estella abrace seu lado rebelde e se torne a Cruella má, elegante e voltada para a vingança.</info>
+<genre>Comédia, Crime</genre>
+<year>2021</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Diretamente de Lugar Nenhum Scooby-Doo Encontra Coragem[/B]</title>
+<link>https://archive.org/download/films_202111/Diretamente%20de%20Lugar%20Nenhum%20-%20Scooby-Doo%21%20Encontra%20Coragem%202021%20WEB-DL%201080p%20DUAL%205.1.mkv$nome= Assistir Online (Opção 1)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ps37ypxcljlxbgqyt26rhsk47zhvvywv$nome= Torrent</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg</fanart>
+<info>Uma luz mística vindo de um OVNI causa grande confusão em uma cidade do interior. Quando pessoas começam a desaparecer, Scooby Doo e a turma são chamados para resolverem o mistério que pode ser maior do que eles imaginam.</info>
+<genre>Animação, Comédia, Suspense, Família, Fantasia</genre>
+<year>2021</year>
 </item>
 
 <item>
@@ -231,7 +243,8 @@
 
 <item>
 <title>[B]Duna[/B]</title>
-<link>https://www.googleapis.com/drive/v3/files/1s6O6Vg3B_mM2_JBPsrhVLl5lw3WhtUuV?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Opção 1</link>
+<link>https://https://archive.org/download/films_202111/Duna%202021%201080p%20WEB-DL%20MP4%20DUAL.mp4$nome= Assistir Online (Opção 1)</link>
+<link>https://www.googleapis.com/drive/v3/files/1s6O6Vg3B_mM2_JBPsrhVLl5lw3WhtUuV?alt=media&key=AIzaSyA-9mbEg2m5lurw-z3-XD4O1TEiB-rxVzI$nome= Assistir Online (Opção 2)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:pv4eipue733df372ndo233meelmqcgdh$nome= Torrent</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg</fanart>
