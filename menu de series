@@ -1,6 +1,60 @@
 <channels>
 
 <channel>
+<name>[B][COLOR white]A Roda do Tempo[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LKxmsgkBSbwGJkNOnYgD9gzS87.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/a%20roda%20do%20tempo</externallink>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LKxmsgkBSbwGJkNOnYgD9gzS87.jpg</fanart>
+<info>As vidas de cinco jovens camponeses mudam para sempre quando uma mulher estranha e poderosa chega dizendo que um deles é a criança de uma antiga profecia, com o poder de alterar o equilíbrio entre Luz e Trevas para sempre. Eles precisam decidir se confiam na desconhecida – e uns nos outros – para mudar o destino do mundo antes que o Tenebroso consiga se libertar de sua prisão.</info>
+<genre>Ação, Aventura, Drama</genre>
+<year>2021</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]Arcane - League of Legends[/COLOR][/B]</name>
+<thumbnail>https://cdn.oneesports.gg/cdn-data/2021/11/LeagueofLegends_ArcanePosterWallpaper.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/arcane%20league%20of%20legends</externallink>
+<fanart>https://cdn.oneesports.gg/cdn-data/2021/11/LeagueofLegends_ArcanePosterWallpaper.jpg</fanart>
+<info>série animada ambientada na utópica Piltover e no oprimido submundo de Zaun, a história fala sobre as origens de duas icônicas Campeãs do LoL - e sobre o poder que vai separá-las.</info>
+<genre>Ação, Animação, Aventura</genre>
+<year>2021</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]Fundação[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzM97zqip5u7qq88aBkiGRBdYXC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/funda%C3%A7%C3%A3o</externallink>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzM97zqip5u7qq88aBkiGRBdYXC.jpg</fanart>
+<info>Inspirada nos premiados romances de Isaac Asimov, Fundação retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.</info>
+<genre>Drama, Ficção</genre>
+<year>2021</year>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]Invasão[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/invas%C3%A3o</externallink>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg</fanart>
+<info>Uma visita extraterrestre ameaça a existência humana. Os impactos a dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.</info>
+<genre>Drama, Fantasia, Ficção</genre>
+<year>2021</year>
+</channel>
+
+<channel>
+<name>[B][COLOR white]História de Horror Americana[/COLOR][/B]</name>
+<thumbnail>https://www.einerd.com.br/wp-content/uploads/2020/02/American-Horror-Story-capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/american%20horror%20story</externallink>
+<fanart>https://www.einerd.com.br/wp-content/uploads/2020/02/American-Horror-Story-capa.jpg</fanart>
+<info>É uma série de televisão norte-americana de terror-drama. Descrita como uma série antológica, cada temporada é concebida como uma minissérie independente, seguindo um conjunto de personagens e ambientações distintas, e um enredo com o seu próprio “começo, meio e fim.</info>
+<genre>Drama, Suspense, Terror</genre>
+<year>2011</year>
+</channel>
+
+
+<channel>
 <name>[B][COLOR white]Lupin[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/S%C3%A9ries/lupin</externallink>
