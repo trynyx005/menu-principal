@@ -1,14 +1,13 @@
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]A Lenda de Candyman[/B]</title>
+<link>https://archive.org/download/mvscollect/A%20Lenda%20de%20Candyman%202021%201080p%20BluRay%20DUAL%205.1.mkv$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/A%20Lenda%20de%20Candyman%202021%201080p%20BluRay%20DUAL%205.1.mkv$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg</fanart>
+<info>Em um bairro pobre de Chicago, a lenda de um espírito assassino conhecido como Candyman assolou a população anos atrás. Agora, o local foi renovado e é lar de cidadãos de alta classe. Quando o espírito retorna, os novos habitantes também serão obrigados a enfrentar a ira de Candyman.</info>
+<genre>Terror, Thriller</genre>
+<year>2021</year>
 </item>
-
 
 <item>
 <title>[B]A Guerra do Amanhã[/B]</title>
