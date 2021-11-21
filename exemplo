@@ -19,3 +19,14 @@
 <genre></genre>
 <year></year>
 </item>
+
+<item>
+<title>[B][/B]</title>
+<link>$nome= Assistir Online (Opção 1)</link>
+<link>$nome= Assistir Online (Opção 2)</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+<year></year>
+</item>
