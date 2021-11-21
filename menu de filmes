@@ -1,7 +1,7 @@
 <item>
 <title>[B][/B]</title>
 <link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
+<link>$nome= Assistir Online (Opção 2)</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -12,6 +12,7 @@
 <item>
 <title>[B]A Janela Secreta[/B]</title>
 <link>https://archive.org/download/mvscollect/A%20Janela%20Secreta%20%282004%29%20BRrip%20Blu-Ray%201080p%20Dublado.mkv$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/A%20Janela%20Secreta%20%282004%29%20BRrip%20Blu-Ray%201080p%20Dublado.mkv$nome= Assistir Online (Opção 2)</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dJ2XE9EQVixJVLfMUSF85E4TiaA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dJ2XE9EQVixJVLfMUSF85E4TiaA.jpg</fanart>
 <info>Mort Rainey (Johnny Depp) é um escritor em crise, que acaba de se separar de sua esposa (Maria Bello) após tê-la flagrado com outro homem. Mort decide se isolar em uma cabana à beira do lago Tashmore, em busca de tranquilidade. Porém lá aparece John Shooter (John Turturro), que começa a atormentá-lo ao acusá-lo seguidamente de plágio.</info>
@@ -20,69 +21,69 @@
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]A Cabana[/B]</title>
+<link>https://archive.org/download/mvscollect/A.Cabana.2017.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/A.Cabana.2017.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg</fanart>
+<info>Depois de sofrer uma tragédia familiar, Mack Phillips (Sam Worthington) entra em uma profunda depressão, que o faz questionar suas crenças mais íntimas. Diante de uma crise de fé, ele recebe uma carta misteriosa que o convida para ir a uma cabana abandonada. Mack encontra então verdades significativas que transformarão seu entendimento sobre a tragédia que abalou sua família e sua vida mudará para sempre.</info>
+<genre>Drama, Fantasia</genre>
+<year>2017</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]Doce Vingança[/B]</title>
+<link>https://archive.org/download/mvscollect/Doce%20Vingan%C3%A7a.mp4$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/Doce%20Vingan%C3%A7a.mp4$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkAj9j5yu01ObA5SCvP3HuN3it9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkAj9j5yu01ObA5SCvP3HuN3it9.jpg</fanart>
+<info>A escritora Jennifer aluga uma cabana isolada para escrever sua mais recente novela. A paz e o silêncio do local são quebrados por uma gangue local que a estupra e tortura, deixando-a como morta. Mas Jennifer retorna para se vingar, capturando os homens um a um e lhes causando muito mais dor do que ela sofreu.</info>
+<genre>Thriller, Crime, Terror</genre>
+<year>2010</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]O Segredo da Cabana[/B]</title>
+<link>https://archive.org/download/mvscollect/O%20Segredo%20da%20Cabana%20-%20-By%20JefePsb%20-%20WOLVERDONFILMES.COM.mkv$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/O%20Segredo%20da%20Cabana%20-%20-By%20JefePsb%20-%20WOLVERDONFILMES.COM.mkv$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/raOYAZFVpWyL9teEzLDEwtP8lm9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/raOYAZFVpWyL9teEzLDEwtP8lm9.jpg</fanart>
+<info>Cinco amigos fazem uma pausa em uma cabana remota, onde conseguem mais do que esperavam, descobrindo a verdade atrás da cabana na floresta.</info>
+<genre>Terror, Comédia, Fantasia, Thriller</genre>
+<year>2012</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]13º Distrito (2014)[/B]</title>
+<link>https://archive.org/download/mvscollect/13%C2%BA%20Distrito%20%282014%29%20BRrip%201080p%20Dublado%20-%20AndreTPF.mp4$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/13%C2%BA%20Distrito%20%282014%29%20BRrip%201080p%20Dublado%20-%20AndreTPF.mp4$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://i.imgur.com/dPvzjws.jpg</thumbnail>
+<fanart>https://i.imgur.com/dPvzjws.jpg</fanart>
+<info>Brick Mansions é uma área da cidade de Detroit onde a violência tem índices altíssimos, o que fez com que a prefeitura local praticamente abandonasse o local à própria sorte. Com isso, traficantes como Tremaine Alexander (RZA) ganharam status e poder, por mais que sejam combatidos por Lino (David Belle), um especialista em le parkour que tenta erradicar as drogas do local. Entretanto, Lino tem problemas com a polícia, corrompida pelo crime organizado, o que faz com que seja preso. Um dos poucos que tentam realmente seguir as leis é Damien Collier (Paul Walker), um detetive que recebe como missão entrar em Brick Mansions para resgatar uma bomba que pode matar milhões. Para tanto, ele precisa contar com a ajuda de Lino, que deseja retornar ao local para resgatar Lola (Catalina Denis), sua namorada, que foi raptada pelos capangas de Tremaine.</info>
+<genre>Ação, Policial</genre>
+<year>2014</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]13° Distrito - Ultimato[/B]</title>
+<link>https://archive.org/download/mvscollect/B13-U%2013%C2%BA%20Distrito%2C%20Ultimato%20%282009%29.mp4$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/B13-U%2013%C2%BA%20Distrito%2C%20Ultimato%20%282009%29.mp4$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97eKX9vZeHk6ugHO8jFToaNVkQY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97eKX9vZeHk6ugHO8jFToaNVkQY.jpg</fanart>
+<info>Paris, 2016. O governo continua mantendo criminosos de várias etnias e crenças num bairro cercado por muros, o B13. Contudo, um plano radical está em curso para exterminar todos em prol de um programa de reconstrução do bairro. O capitão Damien Tomaso (Cyril Raffaelli) e seu parceiro Leïto (David Belle) se envolvem numa trama de conspiração e união entre inimigos, em busca de uma solução para o problema.</info>
+<genre>Ação, Thriller, Crime</genre>
+<year>2009</year>
 </item>
 
 <item>
-<title>[B][/B]</title>
-<link>$nome= Assistir Online (Opção 1)</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= Torrent</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-<year></year>
+<title>[B]B13: 13º Distrito[/B]</title>
+<link>https://archive.org/download/mvscollect/B13%2C%20Decimo%20Terceiro%20Distrito%20%282004%29.mkv$nome= Assistir Online (Opção 1)</link>
+<link>https://archive.org/download/mvscollect/B13%2C%20Decimo%20Terceiro%20Distrito%20%282004%29.mkv$nome= Assistir Online (Opção 2)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AoWK4Y4m3bBRmW1XXcQqXyo9gAj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AoWK4Y4m3bBRmW1XXcQqXyo9gAj.jpg</fanart>
+<info>Ninguém consegue controlar o 13º Distrito. A polícia tenta aprender como fazer isto. Dois jovens heróis, nascidos quando aquilo se tornou uma terra de ninguém e lutando contra um governo repressor, têm 24 horas para entrar e salvar o que se tornou um local violento e fora de controle.</info>
+<genre>Ação, Thriller, Ficção científica</genre>
+<year>2004</year>
 </item>
 
 <item>
