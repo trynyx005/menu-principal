@@ -9,19 +9,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES (2021)[/COLOR][/B]</name>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoflyPvFSvLDg7YtD70GUpVH3uH6nZ0KOaQ&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20filmes%202021</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL24zwR8prsMiUprZziMgMkPmD9xj-Hpm_g&usqp=CAU</fanart>
 <info>Filmes 2021 em HD</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]FILMES DE CINEMA[/COLOR][/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcaxr30Uv87eUwqkHIRFSr2KJ_ASPDiSWXZg&usqp=CAU</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20cinema</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6Hdm0SN9arFqfUlcINT4F_g0gWT6Dr39FQ&usqp=CAU</fanart>
-<info>Filmes gravados no cinema</info>
 </channel>
 
 <channel>
@@ -30,6 +22,14 @@
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20series</externallink>
 <fanart>https://www.seriesdatv.pt/wp-content/uploads/2016/08/series-fantasia-sdtv.jpg</fanart>
 <info>Séries de TV</info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Filmes por Gênero[/COLOR][/B]</name>
+<thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Filmes%20por%20categorias</externallink>
+<fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
+<info>Filmes por Categorias</info>
 </channel>
 
 <channel>
