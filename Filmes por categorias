@@ -1,13 +1,14 @@
 <channel>
-<name>[B][COLOR white]AÇÃO[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/A%C3%A7%C3%A3o</externallink>
-<info>Filmes de Ação</info>
-</channel>
-
-<channel>
 <name>[B][COLOR white]Ação[/COLOR][/B]</name>
 <thumbnail>https://icon-library.com/images/tv-series-icon/tv-series-icon-5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/A%C3%A7%C3%A3o</externallink>
 <fanart>https://www.seriesdatv.pt/wp-content/uploads/2016/08/series-fantasia-sdtv.jpg</fanart>
-<info>Séries de TV</info>
 </channel>
+
+<channel>
+<name>[COLOR crimson][B]Ação[/B][/COLOR]</name>
+<thumbnail>http://spoilers.tv.br/wp-content/uploads/2021/12/64a734284e4dd4c112f48268f30782a9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/A%C3%A7%C3%A3o</externallink>
+<fanart>http://spoilers.tv.br/wp-content/uploads/2021/12/64a734284e4dd4c112f48268f30782a9.jpg</fanart>
+</channel>
+ 
