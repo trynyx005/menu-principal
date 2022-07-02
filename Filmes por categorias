@@ -1,1 +1,65 @@
+<channel>
+<name>[B][COLOR white]AÇÃO[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Filmes%20por%20categorias</externallink>
+<info>Filmes de Ação</info>
+</channel>
 
+<channel>
+<name>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]AVENTURA[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]COMÉDIA[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DRAMA[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]FANTASIA/FICÇÃO[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]GUERRA[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]POLICIAL[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ROMANCE[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SUSPENSE[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]TERROR[/COLOR][/B]</name>
+<externallink> </externallink>
+<info> </info>
+</channel>
