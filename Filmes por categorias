@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR yellow]Animação[/COLOR][/B]</name>
 <thumbnail>https://t.ctcdn.com.br/0tljqG8nOZXRnAMHWHrph7hn3n4=/512x288/smart/filters:format(webp)/i544358.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Filmes%20por%20categorias</externallink>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/animacao</externallink>
 <fanart>https://t.ctcdn.com.br/0tljqG8nOZXRnAMHWHrph7hn3n4=/512x288/smart/filters:format(webp)/i544358.png</fanart>
 <info>Filmes de Animação</info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>[B][COLOR yellow]Aventura[/COLOR][/B]</name>
 <thumbnail>https://1.bp.blogspot.com/-AjKGyUM4clQ/X92zhI7M4ZI/AAAAAAAAM8Y/eFBxACIbq1w-djyfuoUY6G8H36Vr7AxrACLcBGAsYHQ/s600/narnia-mgeek.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20series</externallink>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/aventura</externallink>
 <fanart>https://1.bp.blogspot.com/-AjKGyUM4clQ/X92zhI7M4ZI/AAAAAAAAM8Y/eFBxACIbq1w-djyfuoUY6G8H36Vr7AxrACLcBGAsYHQ/s600/narnia-mgeek.jpg</fanart>
 <info>Filmes de Aventura</info>
 </channel>
@@ -27,7 +27,7 @@
 <channel>
 <name>[B][COLOR yellow]Drama[/COLOR][/B]</name>
 <thumbnail>https://technewsbrasil.com.br/wp-content/uploads/2021/10/filmes-drama-netflix.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20animes</externallink>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/drama</externallink>
 <fanart>https://technewsbrasil.com.br/wp-content/uploads/2021/10/filmes-drama-netflix.jpg</fanart>
 <info>Filmes de Drama</info>
 </channel>
@@ -35,11 +35,49 @@
 <channel>
 <name>[B][COLOR yellow]Ficção/Fantasia[/COLOR][/B]</name>
 <thumbnail>http://sintoniageek.com.br/wp-content/uploads/2019/03/melhores-filmes-de-fantasia-614x511.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20animes</externallink>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/ficcao-fantasia</externallink>
 <fanart>http://sintoniageek.com.br/wp-content/uploads/2019/03/melhores-filmes-de-fantasia-614x511.jpg</fanart>
 <info>Filmes de Ficção/Fantasia</info>
 </channel>
 
+<channel>
+<name>[B][COLOR yellow]Faroeste[/COLOR][/B]</name>
+<thumbnail>https://i.ytimg.com/vi/gb0h51bO3xo/maxresdefault.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/faroeste</externallink>
+<fanart>https://i.ytimg.com/vi/gb0h51bO3xo/maxresdefault.jpg</fanart>
+<info>Filmes de Faroeste</info>
+</channel>
 
+<channel>
+<name>[B][COLOR yellow]Guerra[/COLOR][/B]</name>
+<thumbnail>https://i.ytimg.com/vi/vulqoD4Y4fk/maxresdefault.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/guerra</externallink>
+<fanart>https://i.ytimg.com/vi/vulqoD4Y4fk/maxresdefault.jpg</fanart>
+<info>Filmes de Guerra</info>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Romance[/COLOR][/B]</name>
+<thumbnail>https://br.web.img3.acsta.net/newsv7/20/06/12/18/16/2912051.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/romance</externallink>
+<fanart>Filmes de Romance</fanart>
+<info>https://br.web.img3.acsta.net/newsv7/20/06/12/18/16/2912051.jpg</info>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Suspense[/COLOR][/B]</name>
+<thumbnail>https://quartaparede.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/07/30201621/um-lugar-silencioso.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/suspense</externallink>
+<fanart>https://quartaparede.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/07/30201621/um-lugar-silencioso.png</fanart>
+<info>Filmes de Suspense</info>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Terror[/COLOR][/B]</name>
+<thumbnail>https://www.correio24horas.com.br/fileadmin/_processed_/5/8/csm_jogos_mortais_1d8d47d885.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/terror</externallink>
+<fanart>https://www.correio24horas.com.br/fileadmin/_processed_/5/8/csm_jogos_mortais_1d8d47d885.jpg</fanart>
+<info>Filmes de Terror</info>
+</channel>
 
 </channels>
