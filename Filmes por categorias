@@ -1,14 +1,20 @@
 <channel>
-<name>[B][COLOR white]Ação[/COLOR][/B]</name>
+<name>[B][COLOR white]Ação1[/COLOR][/B]</name>
 <thumbnail>https://icon-library.com/images/tv-series-icon/tv-series-icon-5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/acao</externallink>
 <fanart>https://www.seriesdatv.pt/wp-content/uploads/2016/08/series-fantasia-sdtv.jpg</fanart>
 </channel>
 
 <channel>
-<name>[COLOR crimson][B]Ação[/B][/COLOR]</name>
+<name>[COLOR crimson][B]Ação2[/B][/COLOR]</name>
 <thumbnail>http://spoilers.tv.br/wp-content/uploads/2021/12/64a734284e4dd4c112f48268f30782a9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/acao</externallink>
 <fanart>http://spoilers.tv.br/wp-content/uploads/2021/12/64a734284e4dd4c112f48268f30782a9.jpg</fanart>
 </channel>
  
+<channel>
+<name>[B][COLOR crimson]Ação3[/COLOR][/B]</name>
+<thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/acao</externallink>
+<fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
+</channel>
