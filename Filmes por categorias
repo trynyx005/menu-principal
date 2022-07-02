@@ -5,9 +5,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Animação</info>
+<name>[B][COLOR white]TESTE[/COLOR][/B]</name>
+<thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/A%C3%A7%C3%A3o</externallink>
+<fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
+<info>TESTE</info>
 </channel>
 
 <channel>
