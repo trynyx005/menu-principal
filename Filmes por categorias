@@ -4,72 +4,10 @@
 <info>Filmes de Ação</info>
 </channel>
 
-#EXTINF:-1 tvg-id="" tvg-name="UM TIRA DA PESADA III (1994)" tvg-logo="http://fiqueemcasa.club:80/images/onNcraJY5jyFo0kWB3vrXptnfkE_big.jpg" group-title="FILMES COMEDIA",UM TIRA DA PESADA III (1994)
-
 <channel>
-<name>[B][COLOR white]TESTE[/COLOR][/B]</name>
-<thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
+<name>[B][COLOR white]Ação[/COLOR][/B]</name>
+<thumbnail>https://icon-library.com/images/tv-series-icon/tv-series-icon-5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/A%C3%A7%C3%A3o</externallink>
-<fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
-<info>TESTE</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]AVENTURA[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Aventura</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]COMÉDIA[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Comédia</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]DRAMA[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Drama</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]FANTASIA/FICÇÃO[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Fantasia/Ficção</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Faroeste[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Faroeste</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]GUERRA[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Guerra</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]POLICIAL[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes Policial</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]ROMANCE[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Romance</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SUSPENSE[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Suspense</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]TERROR[/COLOR][/B]</name>
-<externallink> </externallink>
-<info>Filmes de Terror</info>
+<fanart>https://www.seriesdatv.pt/wp-content/uploads/2016/08/series-fantasia-sdtv.jpg</fanart>
+<info>Séries de TV</info>
 </channel>
