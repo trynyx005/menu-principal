@@ -25,6 +25,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR yellow]Comédia[/COLOR][/B]</name>
+<thumbnail>https://mundoconectado.com.br/uploads/chamadas/se-beber-nao-case.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/aventura</externallink>
+<fanart>https://mundoconectado.com.br/uploads/chamadas/se-beber-nao-case.jpg</fanart>
+<info>Filmes de Comédia</info>
+</channel>
+
+<channel>
 <name>[B][COLOR yellow]Drama[/COLOR][/B]</name>
 <thumbnail>https://technewsbrasil.com.br/wp-content/uploads/2021/10/filmes-drama-netflix.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Categorias/drama</externallink>
