@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]TODOS OS FILMES[/COLOR][/B]</name>
+<name>[B][COLOR yellow]TODOS OS FILMES[/COLOR][/B]</name>
 <thumbnail>https://w7.pngwing.com/pngs/881/56/png-transparent-film-reel-film-computer-icons-screenwriter-movie-icon-miscellaneous-action-film-razzle-dazzle-a-journey-into-dance.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20filmes</externallink>
 <fanart>https://t.ctcdn.com.br/LgGjtcVIc3Z5KpC2RmjMNsop51k=/512x288/smart/i487836.jpeg</fanart>
@@ -9,7 +9,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES POR CATEGORIA[/COLOR][/B]</name>
+<name>[B][COLOR yellow]FILMES POR CATEGORIA[/COLOR][/B]</name>
 <thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Filmes%20por%20categorias</externallink>
 <fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
@@ -17,7 +17,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
+<name>[B][COLOR yellow]SERIES[/COLOR][/B]</name>
 <thumbnail>https://icon-library.com/images/tv-series-icon/tv-series-icon-5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20series</externallink>
 <fanart>https://www.seriesdatv.pt/wp-content/uploads/2016/08/series-fantasia-sdtv.jpg</fanart>
@@ -25,7 +25,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
+<name>[B][COLOR yellow]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/08/legiao_npbuqGZPT0Hf.png.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20animes</externallink>
 <fanart>https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/08/legiao_npbuqGZPT0Hf.png.jpeg</fanart>
