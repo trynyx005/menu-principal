@@ -1,4 +1,5 @@
-<channel>
+<channels>
+
 <name>[B][COLOR white]Ação1[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/acao</externallink>
 </channel>
@@ -15,4 +16,5 @@
 <thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/acao</externallink>
 <fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
-</channel>
+
+</channels>
