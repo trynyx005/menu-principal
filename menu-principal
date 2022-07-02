@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR white]TODOS OS FILMES[/COLOR][/B]</name>
 <thumbnail>https://w7.pngwing.com/pngs/881/56/png-transparent-film-reel-film-computer-icons-screenwriter-movie-icon-miscellaneous-action-film-razzle-dazzle-a-journey-into-dance.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20filmes</externallink>
 <fanart>https://t.ctcdn.com.br/LgGjtcVIc3Z5KpC2RmjMNsop51k=/512x288/smart/i487836.jpeg</fanart>
@@ -9,11 +9,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoflyPvFSvLDg7YtD70GUpVH3uH6nZ0KOaQ&usqp=CAU</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20filmes%202021</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL24zwR8prsMiUprZziMgMkPmD9xj-Hpm_g&usqp=CAU</fanart>
-<info>Filmes 2021 em HD</info>
+<name>[B][COLOR white]FILMES POR CATEGORIA[/COLOR][/B]</name>
+<thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Filmes%20por%20categorias</externallink>
+<fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
+<info>Filmes por Categorias</info>
 </channel>
 
 <channel>
@@ -22,14 +22,6 @@
 <externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/menu%20de%20series</externallink>
 <fanart>https://www.seriesdatv.pt/wp-content/uploads/2016/08/series-fantasia-sdtv.jpg</fanart>
 <info>Séries de TV</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Filmes por Gênero[/COLOR][/B]</name>
-<thumbnail>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/trynyx005/menu-principal/main/Filmes%20por%20categorias</externallink>
-<fanart>https://t.ctcdn.com.br/I77SHk2T11lWA18xJCNzxUtjkh8=/512x288/smart/filters:format(webp)/i590443.png</fanart>
-<info>Filmes por Categorias</info>
 </channel>
 
 <channel>
